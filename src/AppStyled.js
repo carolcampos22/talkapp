@@ -1,5 +1,5 @@
 import styled from "styled-components";
-import img from "../src/assets/flowers.jpg"
+import img from "../src/assets/sky.jpg"
 
 
 export const Title = styled.h1`
